@@ -2,73 +2,99 @@
 
 ![Design preview for the Blog preview card coding challenge](./preview.jpg)
 
-This is a solution to the Blog preview card challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
-Table of contents
 
-Overview
+## Overview
 
-The challenge
-Links
+This is my solution to the **Blog Preview Card** challenge on Frontend Mentor.  
+Frontend Mentor challenges help improve frontend development skills by building realistic UI components from design files.
 
+---
 
-My process
+## Table of Contents
 
-Built with
-What I learned
-Continued development
-AI Collaboration
+- [Overview](#overview)
+  - [The Challenge](#the-challenge)
+  - [Links](#links)
+- [My Process](#my-process)
+  - [Built With](#built-with)
+  - [What I Learned](#what-i-learned)
+  - [Continued Development](#continued-development)
+  - [AI Collaboration](#ai-collaboration)
+- [Author](#author)
 
+---
 
-Author
+## The Challenge
 
-Overview
-The challenge
 Users should be able to:
 
-See hover and focus states for all interactive elements on the page
+- See hover and focus states for all interactive elements on the page
 
-Links
+The goal was to recreate the design as closely as possible using only HTML and CSS.
 
-Solution URL: GitHub Repository
-Live Site URL: GitHub Pages
+---
 
-My process
-Built with
+## Links
 
-Semantic HTML5 markup
-CSS custom properties
-Flexbox
-CSS positioning (absolute/relative)
-Box-shadow effects
+- **Solution URL:** GitHub Repository  
+- **Live Site URL:** GitHub Pages  
 
-What I learned
-This project taught me the value of working independently and truly owning my code. While I had CSS knowledge before, it was fragmented — I understood individual concepts but didn't always know how they fit together or when to use them.
-Through this challenge, I learned how to:
+---
 
-Use position: absolute and position: relative together to layer elements
-Create solid drop shadows using box-shadow with zero blur
-Structure my thinking process when approaching a design
-Validate my own approaches before implementing them
+## My Process
 
-The biggest takeaway was building confidence in my ability to problem-solve without relying on copy-paste solutions.
-Continued development
+### Built With
+
+- Semantic HTML5 markup  
+- CSS custom properties  
+- Flexbox  
+- CSS positioning (absolute / relative)  
+- Box-shadow effects  
+
+---
+
+## What I Learned
+
+This project helped me connect my fragmented CSS knowledge into a more structured understanding.
+
+Key learnings:
+
+- Using `position: relative` and `position: absolute` together for layout control  
+- Creating strong drop shadows using `box-shadow` with zero blur  
+- Breaking down a static design before writing CSS  
+- Validating layout logic before implementation  
+
+The biggest takeaway was building confidence in solving layout problems independently.
+
+---
+
+## Continued Development
+
 In future projects, I want to focus on:
 
-Using CSS custom properties (variables) more consistently
-Improving my understanding of responsive design patterns
-Learning CSS Grid alongside Flexbox
-Writing cleaner, more maintainable code from the start
+- Using CSS variables more consistently  
+- Strengthening responsive design fundamentals  
+- Learning and applying CSS Grid  
+- Writing cleaner, more maintainable styles  
 
-AI Collaboration
-I used Claude AI as a learning mentor throughout this project. Rather than providing direct code solutions, Claude helped me:
+---
 
-Structure my fragmented CSS knowledge into cohesive understanding
-Learn how different CSS properties work and why they behave certain ways
-Debug issues by asking guiding questions rather than giving answers
-Validate my thinking and approaches before implementing them
+## AI Collaboration
 
-This approach helped me truly understand what I was building rather than just copying solutions. The knowledge I gained feels solid and transferable to future projects.
-Author
+During this project, I used Claude AI as a learning mentor rather than a solution generator.
 
-Name - R Sujay Bharadwaj
-Frontend Mentor - @SujayBWJ
+It helped me:
+
+- Understand CSS behavior more deeply  
+- Structure my thinking before writing code  
+- Debug issues through guided reasoning  
+- Validate implementation decisions  
+
+This approach reinforced conceptual clarity rather than dependency.
+
+---
+
+## Author
+
+**Name:** R Sujay Bharadwaj  
+**Frontend Mentor:** @SujayBWJ
